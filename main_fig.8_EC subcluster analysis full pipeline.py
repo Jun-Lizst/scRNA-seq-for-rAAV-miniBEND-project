@@ -1,5 +1,5 @@
 # EC subcluster analysis full pipeline
-# For main fig.6
+# For main fig.8
 # Author: Tianyue Ming, @CIBR, @PKU
 
 
@@ -277,4 +277,5 @@ def deg_analysis(subset_name, adata_all, groupby='condition'):
 # 10. Save h5ad
 # ----------------------------------------------
 VS_data.write(results_dir / "Braf_AVM_EC_cluster_reanalysis.h5ad", compression='gzip')---
+
 
