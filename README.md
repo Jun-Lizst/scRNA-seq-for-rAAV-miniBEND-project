@@ -12,4 +12,4 @@ All scripts were developed in R (using Seurat and related packages) and Python.
 
 Citation
 If you use this code, please cite our paper:
-A targeted vector for brain endothelial cell gene delivery and cerebrovascular malformation modeling, Nature Biomedical Engineering (2025).
+Li et.al., A targeted vector for brain endothelial cell gene delivery and cerebrovascular malformation modelling, Nature Biomedical Engineering (10/2025).
